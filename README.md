@@ -1,5 +1,5 @@
 # About this Repo
-This repo contains my solution of assignment in On Demand Coursera course on `Machine Learning` by Professor Andrew NG. If you are taking the class, please DO NOT refer any code in my repo before the due date and NEVER post any code in my repo according to "Stanford Honer Code" and "Coursera Honor Code" below. Questions or pointing out is always welcome, please send me a mail.
+This repo contains my solutions to assignment in Coursera's on demand course on `Machine Learning` by Professor Andrew NG. If you are taking the class, please DO NOT refer any code in my repo before the due date and NEVER post any code in my repo according to "Stanford Honer Code" and "Coursera Honor Code" below. Questions or pointing out is always welcome, please send me a mail.
 
 ## Stanford Honor Code
 
